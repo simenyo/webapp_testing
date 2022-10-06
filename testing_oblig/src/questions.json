@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "title": "Hvilken farge hadde Napoleons hvite hest?",
+      "answers": [
+        {
+          "answer": "Blå",
+          "correct": false
+        },
+        {
+          "answer": "Grønn",
+          "correct": false
+        },
+        {
+          "answer": "Rosa",
+          "correct": false
+        },
+        {
+          "answer": "Hvit",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Les spørsmålet på nytt"
+      }
+    },
+    {
+      "title": "Hva er hovedstaten i Norge?",
+      "answers": [
+        {
+          "answer": "Trondheim",
+          "correct": false
+        },
+        {
+          "answer": "Halden",
+          "correct": false
+        },
+        {
+          "answer": "Svalbard",
+          "correct": false
+        },
+        {
+          "answer": "Oslo",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Det er ikke Trondheim"
+      }
+    },
+    {
+      "title": "Hvilken av disse er Oddvar Brå small talk?",
+      "answers": [
+        {
+          "answer": "Har du mistet en tusj noen gang?",
+          "correct": false
+        },
+        {
+          "answer": "Gleder du deg til å få skjegg?",
+          "correct": false
+        },
+        {
+          "answer": "Ser du forskjell på hatt og pipe?",
+          "correct": false
+        },
+        {
+          "answer": "Alle over",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Se ut i vår hage"
+      }
+    },
+    {
+      "title": "Hvor mye er 2+2?",
+      "answers": [
+        {
+          "answer": "1",
+          "correct": false
+        },
+        {
+          "answer": "3",
+          "correct": false
+        },
+        {
+          "answer": "5",
+          "correct": false
+        },
+        {
+          "answer": "4",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "5-1"
+      }
+    }
+  ]
+}
